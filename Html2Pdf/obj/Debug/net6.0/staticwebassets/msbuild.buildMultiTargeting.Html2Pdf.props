@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Html2Pdf.props" />
+</Project>
